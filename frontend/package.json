@@ -12,7 +12,7 @@
     "tnm": "tar cf node_modules.tar node_modules"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "clipboard": "^1.7.1",
     "lodash": "^4.17.19",
     "spectre.css": "^0.4.0",
